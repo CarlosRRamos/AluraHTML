@@ -25,14 +25,25 @@ em strong {
 }
 .principal{
     background: #CCCCCC;
+    padding: 20px;
 }
 
 .diferenciales{
     background:#FFFFFF;
+    padding: 30px;
 }
 h2{
     text-align: center;
 }
 .items{
     font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+#barbero{
+width: 50%;
 }

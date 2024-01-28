@@ -1,12 +1,12 @@
-body {
-    background-color: #CCCCCC;
+.tituloPrincipal {
+    padding-left: 30px;
 }
 
-#banner{
+#banner {
     width: 100%;
 }
 
-h1 {
+.tituloCentralizado {
     text-align: center;
 
 }
@@ -20,30 +20,31 @@ em strong {
     color: red;
 }
 
-#mision{
+#mision {
     font-size: 20px;
 }
-.principal{
+
+.principal {
     background: #CCCCCC;
     padding: 20px;
 }
 
-.diferenciales{
-    background:#FFFFFF;
+.diferenciales {
+    background: #FFFFFF;
     padding: 30px;
 }
-h2{
-    text-align: center;
-}
-.items{
+
+.items {
     font-style: italic;
 }
-ul{
+
+ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 }
-#barbero{
-width: 50%;
+
+#barbero {
+    width: 50%;
 }

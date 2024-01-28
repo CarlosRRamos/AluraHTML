@@ -23,7 +23,16 @@ em strong {
 #mision{
     font-size: 20px;
 }
+.principal{
+    background: #CCCCCC;
+}
 
+.diferenciales{
+    background:#FFFFFF;
+}
+h2{
+    text-align: center;
+}
 .items{
     font-style: italic;
 }
